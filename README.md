@@ -3,7 +3,7 @@ A project for large scale system course.
 
 It is better to use Colab to execute the scripts.
 
-The following figures shows the results of three experiments using the scripts.
+The following figures illustrate the results of three experiments using the scripts.
 
 ![1](1.png)
 
